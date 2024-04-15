@@ -3,7 +3,6 @@
 
 # Ignore virtual environment
 venv/
-.env
 py-discord-bot.venv
 
 # Ignore IDE settings
@@ -11,4 +10,5 @@ py-discord-bot.venv
 .idea/
 
 # Documents
+.env
 NOTES.adoc
