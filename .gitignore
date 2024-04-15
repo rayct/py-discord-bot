@@ -10,5 +10,5 @@ py-discord-bot.venv
 .idea/
 
 # Documents
-.env
+.env-0
 NOTES.adoc
